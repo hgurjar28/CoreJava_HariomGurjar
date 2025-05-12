@@ -1,0 +1,7 @@
+INFO Server started successfully
+WARN Disk space running low
+ERROR Failed to connect to database
+INFO Connection retry attempt 1
+ERROR Timeout occurred while querying API
+INFO User admin logged in
+ERROR Unable to write to log file
